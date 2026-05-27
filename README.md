@@ -1,7 +1,7 @@
 <p align="center">
   <img src="image_333e63.png" alt="GEN-D Banner" width="100%" style="border-radius: 10px;">
 </p>
-
+<img src="اسم_المجلد/image_333e63.png" alt="GEN-D Banner" width="100%">
 <p align="center">
   <a href="#-français"><b>🇫🇷 Français</b></a> • 
   <a href="#-english"><b>🇬🇧 English</b></a> • 
