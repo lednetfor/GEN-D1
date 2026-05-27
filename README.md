@@ -7,6 +7,9 @@
   <a href="#-english"><b>🇬🇧 English</b></a> • 
   <a href="#-arabic"><b>🇲🇦 العربية</b></a>
 </p>
+<p align="center">
+  <img src="aset/gen3.png" alt="GEN-D Banner" width="100%" style="border-radius: 10px;">
+</p>
 
 ---
 
