@@ -2,51 +2,83 @@
   <img src="image_333e63.png" alt="GEN-D Banner" width="100%" style="border-radius: 10px;">
 </p>
 
-<h1 align="center">🛡️ GEN-D : Next-Gen Encryption Engine</h1>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-DEMO_1.0-orange?style=for-the-badge" alt="Version">
-  <img src="https://img.shields.io/badge/Security-Native_Obfuscation-blue?style=for-the-badge" alt="Security">
-  <img src="https://img.shields.io/badge/Architecture-DN--35gmx-purple?style=for-the-badge" alt="Architecture">
+  <a href="#-français"><b>🇫🇷 Français</b></a> • 
+  <a href="#-english"><b>🇬🇧 English</b></a> • 
+  <a href="#-arabic"><b>🇲🇦 العربية</b></a>
 </p>
 
 ---
 
+<div id="-français"></div>
+
+# 🇫🇷 GEN-D : Moteur de Chiffrement Next-Gen
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Version-DEMO_1.0-orange?style=flat-square" alt="Version">
+  <img src="https://img.shields.io/badge/Securite-Obfuscation_Native-blue?style=flat-square" alt="Security">
+</p>
+
 ## 💻 À Propos de GEN-D
-
-**GEN-D** est une solution propriétaire de cyber-sécurité et de chiffrement de fichiers de nouvelle génération. Basé sur l'architecture robuste **DN-35gmx**, ce système applique des protocoles d'encapsulation avancés pour sécuriser les données sensibles contre toute tentative d'interception ou d'analyse.
-
-> 🔒 **Sécurité Boîte Noire (Black-Box) :** Les algorithmes logiques, la matrice d'intégrité CENTURA et le moteur de restriction sont entièrement compilés en code machine natif pour empêcher la rétro-ingénierie.
-
----
+**GEN-D** est une solution propriétaire de cyber-sécurité et de chiffrement de fichiers de nouvelle génération. Basé sur l'architecture robuste **DN-35gmx**, ce système applique des protocoles d'encapsulation avancés pour sécuriser les données sensibles contre toute tentative d'interception.
+* **Sécurité Boîte Noire :** Les algorithmes et la logique opérationnelle sont compilés en code machine natif pour empêcher la rétro-ingénierie.
 
 ## 🚀 Caractéristiques Clés
-
 * **Chiffrement Multi-Format :** Protection instantanée de vos fichiers (images, documents, exécutables).
 * **Restauration Native :** Reconstruction parfaite du fichier d'origine avec son extension initiale (`.png`, `.exe`, etc.).
-* **Contrôle d'Accès Renforcé :** Double barrière de sécurité via clé d'authentification et code PIN.
-* **Environnement Sécurisé :** Détection automatique des menaces de contournement (Anti-VM, Anti-Sniffing de trafic, et protection contre la modification de l'horloge système).
+* **Contrôle d'Accès Strict :** Double barrière via clé d'authentification et code PIN.
+* **Protection Active :** Détection automatique des menaces (Anti-VM, Anti-Sniffing de trafic, et Anti-Clock Rollback).
+
+## ⚠️ Version d'Évaluation (DEMO)
+Ce dépôt contient la version d'évaluation. Le système s'arrête automatiquement après **15 minutes** d'exécution. Pour acquérir la version professionnelle illimitée, veuillez contacter le développeur.
 
 ---
 
-## 📂 Structure du Dépôt (Deployment)
+<div id="-english"></div>
 
-Pour garantir une confidentialité absolue, ce dépôt public ne contient que l'interface et le binaire sécurisé :
+# 🇬🇧 GEN-D: Next-Gen Encryption Engine
 
-* **`main_ui.py`** : L'interface utilisateur graphique (GUI) publique pour interagir avec le système.
-* **`dn35_core.cpython-310-x86_64-linux-gnu.so`** : Le cœur binaire fermé contenant le moteur **GEN-D** et les verrous de sécurité.
-* **`image_333e63.png`** : Le visuel officiel du projet.
+<p align="left">
+  <img src="https://img.shields.io/badge/Version-DEMO_1.0-orange?style=flat-square" alt="Version">
+  <img src="https://img.shields.io/badge/Security-Native_Obfuscation-blue?style=flat-square" alt="Security">
+</p>
+
+## 💻 About GEN-D
+**GEN-D** is a next-generation proprietary cybersecurity and file encryption solution. Powered by the robust **DN-35gmx** architecture, this system applies advanced encapsulation protocols to secure sensitive data against interception.
+* **Black-Box Security:** All core algorithms and operational logic are compiled into native machine code to completely prevent reverse engineering.
+
+## 🚀 Key Features
+* **Multi-Format Encryption:** Instant protection for any file type (images, documents, executables).
+* **Native Restoration:** Flawless reconstruction of the original file with its initial extension (`.png`, `.exe`, etc.).
+* **Strict Access Control:** Double security barrier using an authentication key and a PIN code.
+* **Active Protection:** Automated threat detection including Anti-VM, Network Traffic Anti-Sniffing, and System Clock Rollback protection.
+
+## ⚠️ Evaluation Version (DEMO)
+This repository contains the evaluation version. The system automatically terminates after **15 minutes** of execution. To acquire the unlimited professional version, please contact the developer.
 
 ---
 
-## ⏱️ Utilisation & Version d'Évaluation
+<div id="-arabic"></div>
 
-L'application intègre une interface intuitive permettant de :
-1. **Importer** le fichier cible.
-2. **Chiffrer** et générer l'encapsulation sécurisée.
-3. **Déchiffrer** après double authentification.
+# 🇲🇦 جين-دي (GEN-D) : محرك تشفير من الجيل الجديد
 
-⚠️ **Note sur la Licence :** Ce dépôt contient la version d'évaluation (DEMO). Le système s'arrête automatiquement après **15 minutes** d'exécution avec un message d'expiration. Pour acquérir la version professionnelle illimitée, veuillez contacter le développeur.
+<p align="left">
+  <img src="https://img.shields.io/badge/%D8%A7%D9%84%D9%86%D8%B3%D8%AE%D8%A9-%D8%AA%D8%AC%D8%B1%D9%8A%D8%A8%D9%8A%D8%A9_1.0-orange?style=flat-square" alt="Version">
+  <img src="https://img.shields.io/badge/%D8%A7%D9%84%D8%A3%D9%85%D8%A7%D9%86-%D8%AA%D8%عمية_%D8%A3%D8%B5%D9%8A%D9%84%D8%A9-blue?style=flat-square" alt="Security">
+</p>
+
+## 💻 حول نظام GEN-D
+برنامج **GEN-D** هو حل برمجيات خاص ومتقدم للأمن السيبراني وتشفير الملفات من الجيل الجديد. يعتمد النظام على بنية **DN-35gmx** القوية، ويطبق بروتوكولات تغليف متطورة لتأمين البيانات الحساسة ضد أي محاولات اعتراض أو اختراق.
+* **أمان الصندوق الأسود (Black-Box):** تم تجميع الخوارزميات الداخلية ومنطق التشغيل بالكامل في كود آلي ثنائي مغلق لمنع الهندسة العكسية تماماً.
+
+## 🚀 الميزات الرئيسية
+* **تشفير متعدد الصيغ:** حماية فورية لجميع أنواع الملفات (الصور، المستندات، والملفات التنفيذية).
+* **استعادة أصلية:** إعادة بناء الملف الأصلي بدقة عالية مع الحفاظ على امتداده الأولي (`.png` ، `.exe`، إلخ).
+* **تحكم صارم في الوصول:** جدار حماية مزدوج يتطلب كلمة مرور مع رمز PIN سري.
+* **حماية نشطة:** كشف تلقائي للتهديدات يشمل حظر الأنظمة الوهمية (Anti-VM)، منع مراقبة حزمة البيانات (Anti-Sniffing)، وحماية ساعة النظام من التلاعب.
+
+## ⚠️ نسخة التقييم (DEMO)
+يحتوي هذا المستودع على النسخة التجريبية فقط. يتوقف النظام عن العمل تلقائياً بعد **15 دقيقة** من التشغيل. للحصول على النسخة الاحترافية غير المحدودة، يرجى التواصل مع المطور.
 
 ---
 <p align="center"><i>Propriété Intellectuelle Protégée — Modèle GEN-D 2026</i></p>
