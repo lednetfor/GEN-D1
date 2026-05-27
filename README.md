@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="gen.png" alt="GEN-D Banner" width="100%" style="border-radius: 10px;">
+</p>
+
+<p align="center">
   <img src="image_333e63.png" alt="GEN-D Banner" width="100%" style="border-radius: 10px;">
 <img src="اسم_المجلد/image_333e63.png" alt="GEN-D Banner" width="100%">
 </p>
