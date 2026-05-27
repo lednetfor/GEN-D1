@@ -18,8 +18,11 @@
   <a href="https://github.com/lednetfor/GEN-D1/raw/main/main_ui.py">
     <img src="https://img.shields.io/badge/Télécharger-main__ui.py_(GUI)-orange?style=for-the-badge&logo=python" alt="Download UI">
   </a>
-  <a href="https://github.com/lednetfor/GEN-D1/raw/main/dn35_core.cpython-310-x86_64-linux-gnu.so">
+  <a href="https://github.com/lednetfor/GEN-D1/raw/main/dn35_core.cpython-312-x86_64-linux-gnu.so">
     <img src="https://img.shields.io/badge/Télécharger-dn35__core_(Chrono/.so)-blue?style=for-the-badge&logo=linux" alt="Download Core">
+  </a>
+  <a href="https://github.com/lednetfor/GEN-D1/raw/main/main_ui.py">
+    <img src="https://img.shields.io/badge/Version-DEMO_(15_min)-🛡️?style=for-the-badge&logo=shield&color=grey" alt="Version Demo">
   </a>
 </p>
 
@@ -35,7 +38,7 @@
 
 ## 📂 Structure du Dépôt (Deployment)
 * **`main_ui.py`** : L'interface utilisateur graphique (GUI) publique.
-* **`dn35_core.cpython-310-x86_64-linux-gnu.so`** : Le cœur binaire fermé (Contient le Chronomètre).
+* **`dn35_core.cpython-312-x86_64-linux-gnu.so`** : Le cœur binaire fermé (Contient le Chronomètre Python 3.12).
 * **`gen.png`** : Le visuel officiel du projet.
 
 ## ⚠️ Version d'Évaluation (DEMO)
@@ -51,8 +54,11 @@ Ce dépôt contient la version d'évaluation. Le système s'arrête automatiquem
   <a href="https://github.com/lednetfor/GEN-D1/raw/main/main_ui.py">
     <img src="https://img.shields.io/badge/Download-main__ui.py_(GUI)-orange?style=for-the-badge&logo=python" alt="Download UI">
   </a>
-  <a href="https://github.com/lednetfor/GEN-D1/raw/main/dn35_core.cpython-310-x86_64-linux-gnu.so">
+  <a href="https://github.com/lednetfor/GEN-D1/raw/main/dn35_core.cpython-312-x86_64-linux-gnu.so">
     <img src="https://img.shields.io/badge/Download-dn35__core_(Chrono/.so)-blue?style=for-the-badge&logo=linux" alt="Download Core">
+  </a>
+  <a href="https://github.com/lednetfor/GEN-D1/raw/main/main_ui.py">
+    <img src="https://img.shields.io/badge/Version-DEMO_(15_min)-🛡️?style=for-the-badge&logo=shield&color=grey" alt="Version Demo">
   </a>
 </p>
 
@@ -68,7 +74,7 @@ Ce dépôt contient la version d'évaluation. Le système s'arrête automatiquem
 
 ## 📂 Repository Structure
 * **`main_ui.py`**: The public Graphical User Interface (GUI).
-* **`dn35_core.cpython-310-x86_64-linux-gnu.so`**: The closed native binary core (Contains Chronometer).
+* **`dn35_core.cpython-312-x86_64-linux-gnu.so`**: The closed native binary core (Python 3.12).
 * **`gen.png`**: The official project banner image.
 
 ## ⚠️ Evaluation Version (DEMO)
@@ -84,8 +90,11 @@ This repository contains the evaluation version. The system automatically termin
   <a href="https://github.com/lednetfor/GEN-D1/raw/main/main_ui.py">
     <img src="https://img.shields.io/badge/%D8%AA%D8%AD%D9%85%D9%8A%D9%84-main__ui.py_(GUI)-orange?style=for-the-badge&logo=python" alt="Download UI">
   </a>
-  <a href="https://github.com/lednetfor/GEN-D1/raw/main/dn35_core.cpython-310-x86_64-linux-gnu.so">
+  <a href="https://github.com/lednetfor/GEN-D1/raw/main/dn35_core.cpython-312-x86_64-linux-gnu.so">
     <img src="https://img.shields.io/badge/%D8%AA%D8%AD%D9%85%D9%8A%D9%84-dn35__core_(Chrono/.so)-blue?style=for-the-badge&logo=linux" alt="Download Core">
+  </a>
+  <a href="https://github.com/lednetfor/GEN-D1/raw/main/main_ui.py">
+    <img src="https://img.shields.io/badge/%D9%86%D8%B3%D8%AE%D8%A9-DEMO_(15_%D8%AF%D9%82%D9%8A%D9%82%D8%A9)-%F0%9F%9B%A1%EF%B8%8F?style=for-the-badge&logo=shield&color=grey" alt="Version Demo">
   </a>
 </p>
 
@@ -101,7 +110,7 @@ This repository contains the evaluation version. The system automatically termin
 
 ## 📂 بنية المستودع
 * **`main_ui.py`**: واجهة المستخدم الرسومية العامة.
-* **`dn35_core.cpython-310-x86_64-linux-gnu.so`**: النواة الثنائية المغلقة للمحرك (تحتوي على نظام الـ 15 دقيقة).
+* **`dn35_core.cpython-312-x86_64-linux-gnu.so`**: النواة الثنائية المغلقة للمحرك (تحتوي على نظام الـ 15 دقيقة لـ Python 3.12).
 * **`gen.png`**: الصورة الرسمية لواجهة المشروع.
 
 ## ⚠️ نسخة التقييم (DEMO)
