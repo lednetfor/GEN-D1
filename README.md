@@ -7,7 +7,7 @@
   </a>
   
   <!-- بوطون النسخة الويب الجديدة -->
-  <a href="https://رابط-الموقع-ديالك-هنا" target="_blank">
+  <a href="https://tranquil-pithivier-aa2365.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Lancer-Version_Web_(DEMO)-green?style=for-the-badge&logo=react" alt="Web Demo">
   </a>
 </p>
