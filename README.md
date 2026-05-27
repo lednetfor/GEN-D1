@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="gen.png" alt="GEN-D Banner" width="100%" style="border-radius: 10px;">
+  <img src="gen1.png" alt="GEN-D Banner" width="100%" style="border-radius: 10px;">
 </p>
 
 <p align="center">
